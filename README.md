@@ -9,4 +9,5 @@ For documentation on the Macropad and the code for the hotkey configurations can
 
 The .py file should be placed in your /macros directory on your RP2040.
 
+Please understand that I have no idea what I am actually doing, and don't have any intentions to maintain this in any way.
 
